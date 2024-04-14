@@ -2,6 +2,9 @@
 
 ## This project uses Power BI Desktop and Excel to help businesses and improve agent performance.
 
+## NovyPro Dashboard link: 
+https://www.novypro.com/project/cx-agent-performance-dashboard
+
 ## Application Used:
 1) Power BI
 2) Excel
